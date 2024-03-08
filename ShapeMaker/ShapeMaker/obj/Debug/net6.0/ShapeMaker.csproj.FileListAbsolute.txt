@@ -1,0 +1,12 @@
+C:\Users\Никита\source\repos\ShapeMaker\ShapeMaker\ShapeMaker\bin\Debug\net6.0\ShapeMaker.deps.json
+C:\Users\Никита\source\repos\ShapeMaker\ShapeMaker\ShapeMaker\bin\Debug\net6.0\ShapeMaker.dll
+C:\Users\Никита\source\repos\ShapeMaker\ShapeMaker\ShapeMaker\bin\Debug\net6.0\ShapeMaker.pdb
+C:\Users\Никита\source\repos\ShapeMaker\ShapeMaker\ShapeMaker\obj\Debug\net6.0\ShapeMaker.csproj.AssemblyReference.cache
+C:\Users\Никита\source\repos\ShapeMaker\ShapeMaker\ShapeMaker\obj\Debug\net6.0\ShapeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\source\repos\ShapeMaker\ShapeMaker\ShapeMaker\obj\Debug\net6.0\ShapeMaker.AssemblyInfoInputs.cache
+C:\Users\Никита\source\repos\ShapeMaker\ShapeMaker\ShapeMaker\obj\Debug\net6.0\ShapeMaker.AssemblyInfo.cs
+C:\Users\Никита\source\repos\ShapeMaker\ShapeMaker\ShapeMaker\obj\Debug\net6.0\ShapeMaker.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\ShapeMaker\ShapeMaker\ShapeMaker\obj\Debug\net6.0\ShapeMaker.dll
+C:\Users\Никита\source\repos\ShapeMaker\ShapeMaker\ShapeMaker\obj\Debug\net6.0\refint\ShapeMaker.dll
+C:\Users\Никита\source\repos\ShapeMaker\ShapeMaker\ShapeMaker\obj\Debug\net6.0\ShapeMaker.pdb
+C:\Users\Никита\source\repos\ShapeMaker\ShapeMaker\ShapeMaker\obj\Debug\net6.0\ref\ShapeMaker.dll
